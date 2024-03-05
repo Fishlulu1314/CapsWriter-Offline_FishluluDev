@@ -1,3 +1,6 @@
+## FishluluDev改动
+这个版本对原仓库版本进行了相关改造,添加了开启关闭程序的bat脚本
+同时配置了autohotkey v1的相关脚本,默认快捷键`Alt + Shift + 1`开启或者关闭脚本(会根据运行时目录下生成的running.flag文件自动判断),使用的时候需要先进入ahk脚本设置安装的目录路径,快捷键可进入脚本自行设置
 ## CapsWriter-Offline
 
 ![image-20240108115946521](assets/image-20240108115946521.png)  
